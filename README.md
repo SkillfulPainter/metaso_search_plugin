@@ -20,7 +20,8 @@
 2.  将整个插件文件夹放入 MaiBot 项目的 `plugins` 目录下。
 3.  安装插件所需的 Python 依赖：
     ```bash
-    pip install beautifulsoup4
+    pip install beautifulsoup4 playwright
+    playwright install
     ```
 
 ### 2. 配置
