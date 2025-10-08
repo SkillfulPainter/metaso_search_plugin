@@ -17,7 +17,8 @@
   
   "default_locale": "zh-CN",
   "locales_path": "_locales",
-  
+  "homepage_url": "https://github.com/SkillfulPainter/metaso_search_plugin",
+  "repository_url": "https://github.com/SkillfulPainter/metaso_search_plugin",
   "plugin_info": {
     "is_built_in": false,
     "plugin_type": "tool",
@@ -35,4 +36,5 @@
       "速率限制"
     ]
   }
+
 }
